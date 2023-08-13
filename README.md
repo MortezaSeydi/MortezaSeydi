@@ -7,7 +7,7 @@
 
 - 💻 I’m interested in machine learning and AI
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me: morteza.seydi73@amail.com
+- 📫 How to reach me: morteza.seyedi73@amail.com
 
 
 ### 🖥 Skills
