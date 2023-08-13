@@ -1,6 +1,6 @@
 # Morteza Seydi
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hejazizo/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/hejazizo/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](https://www.linkedin.com/in/morteza-seydi-24a070288/))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/morteza._.94/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:morteza.seyedi73@gmail.com)
 [![Github](https://img.shields.io/github/followers/MortezaSeydi?label=Follow&style=social)](https://github.com/MortezaSeydi)
